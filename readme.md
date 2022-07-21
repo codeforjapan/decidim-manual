@@ -1,5 +1,5 @@
 # Notion Blog
-| ⚠️ This repository will be archived in the future, this config will no longer be maintained. Thanks for all the stars, help and brainstorms! |
+| ⚠️ This repository has been archived and will no longer be maintained. Thanks for all the stars, help and brainstorms! |
 
 This is an example Next.js project that shows Next.js' upcoming SSG (static-site generation) support using Notion's **private** API for a backend.
 
